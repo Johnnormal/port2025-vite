@@ -1,6 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
 @import url("https://websfont.github.io/nanumSquareNeo/nanumSquareNeo.css");
 @import url("https://websfont.github.io/gmarket/gmarket.css");
+@font-face {
+    font-family: 'NanumSquareNeo';
+    src: url('../../fonts/NanumSquareNeoTTF-aLt.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'nanumSquareNeo';
+    src: url('../../fonts/NanumSquareNeoTTF-bBd.woff2') format('woff2'); /* Bold */
+    font-weight: 700;
+}
 
 .mont {
     font-family: "Montserrat";
